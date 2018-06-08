@@ -14,5 +14,4 @@ class Dog
     end
   end
   
-  def 
 end
